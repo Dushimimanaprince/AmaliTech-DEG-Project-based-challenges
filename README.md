@@ -1,3 +1,3 @@
 # Idempotency Gateway
 
-Work in progress...
+Check the Backend/ Idempotency Gateway
