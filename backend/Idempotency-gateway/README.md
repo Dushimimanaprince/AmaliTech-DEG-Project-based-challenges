@@ -67,9 +67,9 @@ pip install -r requirements.txt
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'your_db_name',
-        'USER': 'your_username',
-        'PASSWORD': 'your_password',
+        'NAME': 'Payment',
+        'USER': 'postgres',
+        'PASSWORD': 'XXX-XXX',
         'HOST': 'localhost',
         'PORT': '5432',
     }
